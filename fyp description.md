@@ -1,0 +1,1 @@
+This project describes the deep learning framework that portrays the fusion of audio and video using different feature extraction methods from both modalities (audio and video). The modalities were obtained from the RAVDESS dataset. The fusion of the extracted features from both both modalities is fed into deep learning models proposed in this project for emotion classification. 
